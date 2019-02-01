@@ -1,6 +1,6 @@
 {
   "name": "@things-shell/client-utils",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "src/index.js",
   "repository": "https://github.com/things-shell/client-utils.git",
   "author": "Hearty Oh <heartyoh@hatiolab.com>",

@@ -14,7 +14,7 @@ export default [
     plugins,
     output: [
       {
-        file: pkg.main,
+        file: 'dist/client-utils.js',
         name: 'auth',
         format: 'umd',
         sourcemap: true

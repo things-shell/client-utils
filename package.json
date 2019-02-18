@@ -1,6 +1,6 @@
 {
   "name": "@things-shell/client-utils",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "dist/client-utils.js",
   "module": "dist/client-utils.mjs",
   "esnext:main": "dist/client-utils.mjs",

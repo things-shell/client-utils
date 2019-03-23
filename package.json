@@ -1,9 +1,7 @@
 {
   "name": "@things-shell/client-utils",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "main": "src/index.js",
-  "module": "dist/client-utils.mjs",
-  "esnext:main": "dist/client-utils.mjs",
   "repository": "https://github.com/things-shell/client-utils.git",
   "author": "Hearty Oh <heartyoh@hatiolab.com>",
   "license": "MIT",

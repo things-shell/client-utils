@@ -1,6 +1,6 @@
 export * from './fullscreen'
 export * from './deep-clone'
 export * from './sleep'
-export * from './delete-cookie'
+export * from './cookie'
 export * from './encode-form-params'
 export * from './os'
